@@ -24,14 +24,15 @@
     "@angular/platform-browser": "~9.1.9",
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
+    "@ngx-formly/core": "^5.0.0",
+    "@ngx-formly/material": "^5.0.0",
     "@ngx-formly/schematics": "^5.8.1",
-    "faunadb": "^2.14.1",
+    "dotenv": "^8.2.0",
+    "faunadb": "^2.14.2",
     "netlify-lambda": "^1.6.3",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2",
-    "@ngx-formly/core": "^5.0.0",
-    "@ngx-formly/material": "^5.0.0"
+    "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.7",
